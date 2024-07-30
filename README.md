@@ -2,12 +2,16 @@
  
 1. Problem Statement
 Explain the Problem:
+
 •	Objective: Describe the problem you're solving. For instance, “The goal of this project is to build a system that can automatically detect whether a dustbin is full or empty based on images captured from a camera.”
+
 •	Importance: Explain why this is important. “Efficient waste management can help cities maintain cleanliness and optimize resource use.”
 ________________________________________
 2. Data Collection
+3. 
 Data Sources:
 •	Data Collection: “We collected images of dustbins in both full and empty states. These images were taken using a webcam and were categorized into two folders: one for ‘full’ dustbins and one for ‘empty’ dustbins.”
+
 Data Directory Structure:
 •	Training and Validation: “We organized the images into separate directories for training and validation purposes, ensuring the model could learn and validate its performance effectively.”
 ________________________________________
