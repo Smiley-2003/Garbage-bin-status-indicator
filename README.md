@@ -44,6 +44,7 @@ Compilation:
 •	Optimizer: “The RMSprop optimizer was chosen with a learning rate of 0.001 to adjust the weights during training.”
 ________________________________________
 6. Model Training
+   
 Training Process:
 •	Training and Validation: “The model was trained on the training dataset with a batch size of 3 for 25 epochs, and validation was performed using a separate validation dataset.”
 
@@ -53,12 +54,14 @@ Monitoring Training:
 •	Accuracy and Loss Curves: “We plotted the training and validation accuracy and loss to monitor the model’s performance and to check for signs of overfitting.”
 ________________________________________
 7. Model Evaluation
+   
 Evaluation:
 •	Confusion Matrix: “We used a confusion matrix to evaluate the performance of the model. This helped us understand the true positives, true negatives, false positives, and false negatives.”
 
 •	Accuracy and Loss: “We examined the accuracy and loss values to gauge how well the model performed on unseen data.”
 ________________________________________
 8. Deployment and Testing
+   
 Real-Time Testing:
 •	Real-Time Prediction: “We implemented a real-time system using a webcam to capture images and predict whether the dustbin is full or empty.”
 
@@ -66,6 +69,7 @@ Real-Time Testing:
 
 ________________________________________
 9. Challenges and Solutions
+    
 Challenges:
 •	Data Imbalance: “We faced issues with data imbalance between full and empty categories. To address this, we collected more data and used techniques to handle imbalance.”
 
@@ -74,6 +78,7 @@ Solutions:
 
 ________________________________________
 10. Future Improvements
+    
 Potential Enhancements:
 •	Enhanced Data Augmentation: “We could explore more advanced data augmentation techniques to improve model robustness.”
 
