@@ -8,7 +8,7 @@ Explain the Problem:
 •	Importance: Explain why this is important. “Efficient waste management can help cities maintain cleanliness and optimize resource use.”
 ________________________________________
 2. Data Collection
-3. 
+ 
 Data Sources:
 •	Data Collection: “We collected images of dustbins in both full and empty states. These images were taken using a webcam and were categorized into two folders: one for ‘full’ dustbins and one for ‘empty’ dustbins.”
 
@@ -16,14 +16,18 @@ Data Directory Structure:
 •	Training and Validation: “We organized the images into separate directories for training and validation purposes, ensuring the model could learn and validate its performance effectively.”
 ________________________________________
 3. Data Preprocessing
+   
 Image Rescaling:
 •	Rescaling: “We used ImageDataGenerator to rescale pixel values of images between 0 and 1. This helps the model to converge faster and perform better.”
+
 Data Augmentation:
 •	Augmentation (if applied): “To improve the robustness of the model, we applied data augmentation techniques like rotations, translations, and flips.”
 ________________________________________
 4. Model Architecture
+   
 Model Design:
 •	Architecture: “We used a Convolutional Neural Network (CNN) for this task. The model consists of several convolutional layers followed by max-pooling layers to extract and downsample features from the images. After that, the flattened layer connects to a dense layer and an output layer with a sigmoid activation function for binary classification.”
+
 Layer Details:
 •	Convolutional Layers: “The first layer has 32 filters with a 3x3 kernel, followed by 64, 128, and 256 filters in subsequent layers. Max-pooling layers are used to reduce dimensionality.”
 •	Dense Layers: “We have a dense layer with 512 units and a final output layer with a single unit using sigmoid activation for binary classification.”
