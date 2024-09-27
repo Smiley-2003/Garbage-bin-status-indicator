@@ -3,9 +3,9 @@
 1. Problem Statement
 Explain the Problem:
 
-•	Objective: Describe the problem you're solving. For instance, “The goal of this project is to build a system that can automatically detect whether a dustbin is full or empty based on images captured from a camera.”
+•	Objective: “The goal of this project is to build a system that can automatically detect whether a dustbin is full or empty based on images captured from a camera.”
 
-•	Importance: Explain why this is important. “Efficient waste management can help cities maintain cleanliness and optimize resource use.”
+•	Importance:  “Efficient waste management can help cities maintain cleanliness and optimize resource use.”
 ________________________________________
 2. Data Collection
  
