@@ -6,14 +6,16 @@ Explain the Problem:
 •	Objective: “The goal of this project is to build a system that can automatically detect whether a dustbin is full or empty based on images captured from a camera.”
 
 •	Importance:  “Efficient waste management can help cities maintain cleanliness and optimize resource use.”
-![image](https://github.com/user-attachments/assets/1969c6e6-9259-49c9-8162-2274a7f62eae)
+![image](https://github.com/user-attachments/assets/b997e99a-6a25-4f41-925b-7d6766b68bab)
+
 
 ________________________________________
 2. Data Collection
  
 Data Sources:
 •	Data Collection: “We collected images of dustbins in both full and empty states. These images were taken using a webcam and were categorized into two folders: one for ‘full’ dustbins and one for ‘empty’ dustbins.”
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/fb46121a-00a4-45b4-a31a-c9f1af86a586)
+
 
 Data Directory Structure:
 •	Training and Validation: “We organized the images into separate directories for training and validation purposes, ensuring the model could learn and validate its performance effectively.”
