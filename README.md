@@ -6,7 +6,8 @@ Explain the Problem:
 •	Objective: “The goal of this project is to build a system that can automatically detect whether a dustbin is full or empty based on images captured from a camera.”
 
 •	Importance:  “Efficient waste management can help cities maintain cleanliness and optimize resource use.”
-![image](https://github.com/user-attachments/assets/b997e99a-6a25-4f41-925b-7d6766b68bab)
+![image](https://github.com/user-attachments/assets/63b28a69-1d7f-4024-b349-4f226c291008)
+
 
 
 ________________________________________
