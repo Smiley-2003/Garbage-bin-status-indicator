@@ -13,6 +13,7 @@ ________________________________________
  
 Data Sources:
 •	Data Collection: “We collected images of dustbins in both full and empty states. These images were taken using a webcam and were categorized into two folders: one for ‘full’ dustbins and one for ‘empty’ dustbins.”
+![Uploading image.png…]()
 
 Data Directory Structure:
 •	Training and Validation: “We organized the images into separate directories for training and validation purposes, ensuring the model could learn and validate its performance effectively.”
