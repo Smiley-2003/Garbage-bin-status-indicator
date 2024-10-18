@@ -53,6 +53,7 @@ ________________________________________
    
 Training Process:
 •	Training and Validation: “The model was trained on the training dataset with a batch size of 3 for 25 epochs, and validation was performed using a separate validation dataset.”
+![image](https://github.com/user-attachments/assets/31e3449e-b404-4a23-ab40-4a61309e9fd6)
 
 •	Performance Metrics: “We tracked accuracy and loss for both training and validation datasets.”
 
