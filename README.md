@@ -74,6 +74,7 @@ Real-Time Testing:
 •	Real-Time Prediction: “We implemented a real-time system using a webcam to capture images and predict whether the dustbin is full or empty.”
 
 •	Email Notifications: “If the model detects a full dustbin, an email notification is sent to inform the concerned team.”
+![image](https://github.com/user-attachments/assets/1f02ea76-708c-4a6a-b94f-ab68f84860dd)
 
 ________________________________________
 9. Challenges and Solutions
