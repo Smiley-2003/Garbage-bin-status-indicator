@@ -65,6 +65,8 @@ Evaluation:
 •	Confusion Matrix: “We used a confusion matrix to evaluate the performance of the model. This helped us understand the true positives, true negatives, false positives, and false negatives.”
 
 •	Accuracy and Loss: “We examined the accuracy and loss values to gauge how well the model performed on unseen data.”
+![image](https://github.com/user-attachments/assets/da0d7c5e-d56c-4485-abd8-486625cfdcfe)
+
 ________________________________________
 8. Deployment and Testing
    
